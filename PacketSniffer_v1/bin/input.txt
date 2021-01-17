@@ -1,0 +1,44 @@
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
+Ethernet adapter Ethernet:
+Wireless LAN adapter Local Area Connection* 1:
+Wireless LAN adapter Local Area Connection* 3:
+Wireless LAN adapter WiFi:
