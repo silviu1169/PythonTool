@@ -1,1 +1,0 @@
-C:\Users\User\AppData\Local\Programs\Python\Python37-32\Scripts\pip.exe install scapy
