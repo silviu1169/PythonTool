@@ -1,7 +1,7 @@
 # PythonTool
 Packet Sniffer Tool in Python for intercepting and logging traffic that passes over a network.
 
--------------- PacketSniffer_v1 --------------
+	PacketSniffer_v1
 
 First version of the program. It may contains some bugs. New update incomming.
 
@@ -12,7 +12,7 @@ How to use:
 	-open start.py
   
   
--------------- PacketSniffer_v2 --------------
+	PacketSniffer_v2
 
 Major change: 
 	- refactoring the code. 
@@ -26,7 +26,7 @@ How to use:
 	-open start.py
   
   
--------------- PacketSniffer_v3 --------------
+	PacketSniffer_v3 
 
 Fixed some bugs.
 
@@ -37,8 +37,8 @@ How to use:
 	-open start.py
 
 
--------------- PacketSniffer_v4 --------------
-
+ 	PacketSniffer_v4  
+	
 Fixed some bugs. The installer is now a .exe file
 
 Installation:
